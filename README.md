@@ -1,5 +1,5 @@
 # PMSP_SOF
-Um código python simples que se propõe a demonstrar como consumir a API do SOF (Sistema de Orçamento e Finanças) da Prefeitura de São Paulo
+Um código python simples que se propõe a demonstrar como consumir a API do SOF (Sistema de Orçamento e Finanças) da Prefeitura de São Paulo utilizando Python
 
 Necessário acessar a Vitrine de APIs da Prefeitura (https://apilib.prefeitura.sp.gov.br/store/) para (nesta ordem):
 1) Fazer seu cadastro definindo seu login e senha
