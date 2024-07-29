@@ -1,3 +1,4 @@
+#Para o SOF.ipynb rodar perfeitamente, além de colar as chaves aqui, este arquivo deverá ser renomeado para keysof.py
 chaves = {
     'client_id_': 'cola a chave aqui',
     'client_secret_': 'cola a chave aqui'
